@@ -15,3 +15,7 @@ A curated list of awesome websites that provide free assets (images, fonts, APIs
 ## APIs
 
 - [Star Wars REST API](https://swapi.dev/)
+
+## Mock Data
+
+- [Mockaroo](https://www.mockaroo.com/)
