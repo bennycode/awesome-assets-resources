@@ -7,6 +7,8 @@ A curated list of awesome websites that provide free assets (images, fonts, APIs
 - https://unsplash.com/images/stock
 - https://pixabay.com/
 - https://www.pexels.com/
+- https://burst.shopify.com/
+- https://picjumbo.com/
 
 ## Icons
 
