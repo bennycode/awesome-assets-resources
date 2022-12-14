@@ -21,6 +21,7 @@ A curated list of awesome websites that provide free assets (images, fonts, APIs
 ## GIFs
 
 - https://giphy.com/
+- https://tenor.com/
 - https://vlipsy.com/
 
 ## Color Palette Generators
