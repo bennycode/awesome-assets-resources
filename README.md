@@ -18,6 +18,16 @@ A curated list of awesome websites that provide free assets (images, fonts, APIs
 
 - [Star Wars REST API](https://swapi.dev/)
 
+## GIFs
+
+- https://giphy.com/
+- https://vlipsy.com/
+
+## Color Palette Generators
+
+- https://reasonable.work/colors/
+- https://coolors.co/
+
 ## Mock Data
 
 - [Mockaroo](https://www.mockaroo.com/)
