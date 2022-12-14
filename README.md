@@ -24,6 +24,10 @@ A curated list of awesome websites that provide free assets (images, fonts, APIs
 - https://tenor.com/
 - https://vlipsy.com/
 
+## Backdrops
+
+- https://giphy.com/backdrop
+
 ## Color Palette Generators
 
 - https://reasonable.work/colors/
