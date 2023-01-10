@@ -17,6 +17,7 @@ A curated list of awesome websites that provide free assets (images, fonts, APIs
 ## APIs
 
 - [Star Wars REST API](https://swapi.dev/)
+- [Postman Echo API](https://learning.postman.com/docs/developer/echo-api/)
 
 ## GIFs
 
