@@ -1,4 +1,4 @@
-# Awesome Assets
+# Awesome Assets & Resources
 
 A curated list of awesome websites that provide free assets (images, fonts, APIs, ...).
 
