@@ -37,3 +37,7 @@ A curated list of awesome websites that provide free assets (images, fonts, APIs
 ## Mock Data
 
 - [Mockaroo](https://www.mockaroo.com/)
+
+## Sound Effects
+
+- https://pixabay.com/sound-effects
