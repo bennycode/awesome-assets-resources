@@ -41,3 +41,7 @@ A curated list of awesome websites that provide free assets (images, fonts, APIs
 ## Sound Effects
 
 - https://pixabay.com/sound-effects
+
+## Stock Video (Paid)
+
+- https://elements.envato.com/stock-video
