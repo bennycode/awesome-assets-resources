@@ -10,6 +10,9 @@ A curated list of awesome websites that provide free assets (images, fonts, APIs
 - https://burst.shopify.com/
 - https://picjumbo.com/
 
+## Sound Effects
+- https://pixabay.com/sound-effects/
+
 ## Icons
 
 - https://www.flaticon.com/
