@@ -16,6 +16,7 @@ A curated list of awesome websites that provide free assets (images, fonts, APIs
 ## Icons
 
 - https://www.flaticon.com/
+- https://www.freepik.com/
 
 ## APIs
 
